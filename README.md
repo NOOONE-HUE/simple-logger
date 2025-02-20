@@ -4,7 +4,7 @@
 SimpleLogger is a smart contract that allows users to log interactions with timestamps. Each interaction is recorded on the blockchain along with the user's address and message.
 
 ## Smart Contract Address
-`<INSERT_SMART_CONTRACT_ADDRESS_HERE>`
+`<0xd4c4A2c084Df820C8B1bfD0Ed215e996FFd516eC>`
 
 ## Features
 - Users can log messages with timestamps.
